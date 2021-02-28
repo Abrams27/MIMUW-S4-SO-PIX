@@ -1,0 +1,8 @@
+# mac OS
+.DS_Store
+
+# .idea
+.idea/
+
+*.o
+cmake-build-*/
